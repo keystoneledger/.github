@@ -1,4 +1,4 @@
-<h1 align="center">Your Friendly Neighborhood<a href="https://infosecjerk.github.io">Infosec Jerk</a>.</h1><br>
+<h1 align="center">Your Friendly Neighborhood <a href="https://infosecjerk.github.io">Infosec Jerk</a>.</h1><br>
 
 <p align="center">
 	<a href="https://https://infosecjerk.github.io/">

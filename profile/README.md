@@ -2,6 +2,6 @@
 
 <p align="center">
 	<a href="https://https://keystoneledger.github.io/">
-		<img src="https://avatars.githubusercontent.com/u/297656775" alt="Infosec Jerk" height="50">
+		<img src="https://avatars.githubusercontent.com/u/297656775" alt="Keystone Ledger Lens" height="50">
 	</a>
 </p>

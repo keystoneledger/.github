@@ -1,2 +1,2 @@
 # .github
-Infosec Jerk .github metarepository
+Keystone Ledger Lens .github metarepository
